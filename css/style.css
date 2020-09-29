@@ -1,0 +1,86 @@
+/************* LOGO**************/
+#logo1 a{display: block;
+text-align: center;
+margin-top: 10px;
+}
+#logo{
+  max-width: 150px;  
+}
+/************* END LOGO****************/
+/*************  middle nav****************/
+#midnav{
+    margin-top: 10px;
+}
+/************* END middle nav****************/
+#midnav1{
+    margin-top: 30px;
+    border-top: 1px solid #a51890;
+        border-bottom: 1px solid #a51890;
+    margin-bottom: 30px;
+
+}
+#dropdown-item{
+    color :black;
+}
+#menutitle{
+    color: black;
+    font-weight: bold;
+
+}
+/****************** carousel*******************/
+#caro{
+    margin-bottom: 30px;
+}
+#caro img {
+    max-width: 100%;
+    width: 1280px;
+    height: 460px;
+}
+/******************end  carousel*******************/
+/****************** imges *******************/
+#imges{
+    width: 100%;
+}
+#img1{
+    overflow: auto;
+    margin-bottom: 50PX;
+}
+#img2{
+   
+
+}
+#im img{
+ max-width: 100%; 
+    
+}
+
+/******************end imges *******************/
+
+ /*-------------------- footer-------------------------------*/
+.footer{
+    border-top: 1px solid #a51890;
+    padding-top: 40px;
+}
+.links_p{
+    padding: 10PX;
+}
+
+.news{
+    margin-right: 0px;
+}
+.copyright{
+    
+    margin-top: 40px;
+    text-align: center;
+        border-top: 1px solid #a51890;
+padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.icons{
+    margin: 20px 0px 20px 20px;
+    
+}
+
+/*-------------------- end footer-------------------------------*/
+
